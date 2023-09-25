@@ -20,7 +20,7 @@ namespace Example
         private void button1_Click(object sender, EventArgs e)
         {
             Bai1 Ex1 = new Bai1();
-            show();
+            Ex1.show();
         }
     }
 }
